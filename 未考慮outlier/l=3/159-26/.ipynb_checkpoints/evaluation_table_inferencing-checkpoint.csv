@@ -1,0 +1,4 @@
+Window_index,Stage,MAE,MAPE,RMSE,Accuracy(2000),Accuracy(3000),Step4,Step6.1,Step6.2,Time,Adopted_hidden_node
+1,Inferencing,6781.51,15.80,6965.49,0.0,0.0,140,0,0,64.27333807945251,1
+2,Inferencing,4420.8,11.74,4809.19,7.69,26.92,31,0,1,50.80052828788757,4
+3,Inferencing,4316.44,12.04,5212.23,38.46,42.31,27,0,5,114.94819664955139,18
